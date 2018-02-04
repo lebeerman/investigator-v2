@@ -4,4 +4,4 @@ You're making the new Galvanize website, and need to include a way to accept pay
 
 Note that you'll need to do some work on the client and some on the server. Be careful about committing any secret keys.
 
-Deploy your work and add a link to it [here]( https://git.heroku.com/boiling-beyond-28144.git).
+Deploy your work and add a link to it [here]( https://boiling-beyond-28144.herokuapp.com/bill).
